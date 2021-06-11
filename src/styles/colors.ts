@@ -1,0 +1,15 @@
+export default {
+  white: '#FFFFFF',
+  secondWhite: '#FFFCF9',
+  thirdWhite: '#FDFCFC',
+  gray: '#838281',
+  lightGray: '#CFCBD2',
+  darkGray: '#666360',
+  black: '#000000',
+  red: '#FF6978',
+  inputBorderColor: '#d3e2e6',
+  firstLinearColor: '#F2F2F2',
+  secondLinearColor: '#F6EDE4',
+  thirdLinearColor: '#F7EEE5',
+  green: '#1BC0B5',
+};
